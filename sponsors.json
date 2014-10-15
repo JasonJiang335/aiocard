@@ -1,0 +1,116 @@
+{
+  	"la":[
+  		{
+		    "name": "LALA Game Room",
+		    "region":"la",
+		    "image": "game.png",
+		    "id": "la",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		},
+		{
+		    "name": "LALA Game Room",
+		    "region":"la",
+		    "image": "game.png",
+		    "id": "la",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		},
+		{
+		    "name": "LALA Game Room",
+		    "region":"la",
+		    "image": "game.png",
+		    "id": "la",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		},
+		{
+		    "name": "LALA Game Room",
+		    "region":"la",
+		    "image": "game.png",
+		    "id": "la",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		}
+	],
+
+	"sd":[
+		{
+			"name": "SDSD Game Room",
+		    "region":"sd",
+		    "image": "cabin.png",
+		    "id": "sd",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		},
+		{
+			"name": "SDSD Game Room",
+		    "region":"sd",
+		    "image": "cabin.png",
+		    "id": "sd",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		},
+		{
+			"name": "SDSD Game Room",
+		    "region":"sd",
+		    "image": "cabin.png",
+		    "id": "sd",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		}
+	],
+
+	"oc":[
+		{
+			"name": "OCOC Game Room",
+		    "region":"oc",
+		    "image": "cake.png",
+		    "id": "sd",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		}
+	],
+
+	"sb":[
+		{
+			"name": "SBSB Game Room",
+		    "region":"sb",
+		    "image": "safe.png",
+		    "id": "sb",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		}
+	],
+
+	"rs":[
+		{
+			"name": "RSRS Game Room",
+		    "region":"rs",
+		    "image": "circus.png",
+		    "id": "rs",
+		    "yelp": "http://www.yelp.com/biz/c-level-san-diego",
+		    "discount": "10%",
+		    "phone": "(858)888-8888",
+		    "address": "3219 A St., Los Angeles, CA 92002" 
+		}
+	]
+}
